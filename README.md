@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there, I'm Rupesh 👋<br><br>I'm a Full Stack Software Engineer with nearly 6 years of experience building scalable, cloud native applications using Java, Spring Boot, Angular, and AWS. I enjoy designing clean backend architectures, developing responsive user interfaces, and solving complex engineering problems with practical solutions.<br><br>My work focuses on microservices, REST APIs, event driven systems with Kafka, secure authentication using JWT and OAuth2, cloud deployments, and modern DevOps practices. I enjoy writing clean, maintainable code, improving application performance, and continuously learning new technologies.<br><br>Tech Stack<br><br>Backend: Java, Spring Boot, Spring Security, Hibernate, JPA, REST APIs<br>Frontend: Angular, React, TypeScript, JavaScript, HTML, CSS<br>Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, Terraform, GitHub Actions<br>Databases: PostgreSQL, MySQL, MongoDB, Redis<br>Messaging: Apache Kafka<br>Testing: JUnit, Mockito<br>Tools: Git, Maven, Gradle, Postman, IntelliJ IDEA<br><br> Currently Learning<br><br> Advanced System Design<br> Distributed Systems<br> Cloud Architecture<br> AI powered software development<br><br> Interests<br><br>I enjoy building production ready applications, contributing to open source projects, exploring new technologies, and creating software that makes a meaningful impact.<br><br>Feel free to explore my repositories, and if you have an interesting project or opportunity, I'd be happy to connect and collaborate.<br>
 
-<!--
-**Rupyez/Rupyez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rupeesh.duwal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupeesh.duwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rupeeshduwal1) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rupesh Duwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rupeshduwal17@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rupyez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rupyez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rupyez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Rupyez&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
